@@ -33,3 +33,6 @@ My Sublime Text 3 settings
 * Theme - Minimal
 * TrilingSpaces
 * WhoCalled FunctionFinder
+* Character Table
+* UnicodeMath
+* Unicode Character Highlighter
