@@ -50,6 +50,8 @@
 		80
 	],
 	"scroll_past_end": false,
+	"show_encoding": true,
+	"show_line_endings": true,
 	"theme": "Minimal Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": false
