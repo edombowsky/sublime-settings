@@ -1,0 +1,19 @@
+[
+    {
+        "class": "tab_label",
+        "parents": [{"class": "tab_control", "attributes": ["selected"]}],
+        "fg": [230, 230, 230],
+        "shadow_color": [35, 35, 35],
+        // EMD: added bold text 2013.06.26
+        "font.bold": true
+    },
+    // EMD:  added blue labels for modified tabs 2013.06.26,.  Taken from:
+    // https://github.com/buymeasoda/soda-theme/wiki/Theme-customisation
+    {
+        "class": "tab_label",
+        "settings": ["highlight_modified_tabs"],
+        "parents": [{"class": "tab_control", "attributes": ["dirty"]}],
+        "fg": [120, 170, 250],
+        "shadow_color": [35, 35, 35]
+    }
+]
