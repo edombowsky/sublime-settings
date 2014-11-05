@@ -1,0 +1,17 @@
+{
+    "auto_open": true,
+    "auto_open_patterns": [
+        "*.bin",
+        "*.dll",
+        "*.ico",
+        "*.lib",
+        "*.pyc",
+        "*.exe",
+        "*.res"
+    ],
+    "bytes_per_line": 16,
+    "custom_font": "Consolas",
+    "custom_font_size": 12,
+    "group_bytes_by_bits": 8,
+    "inspector": false
+}
