@@ -1,0 +1,37 @@
+{
+    "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+    // "color_scheme": "Packages/Theme - Curiosity/curiosity.base16.markdown.tmTheme",
+    // "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Yellow.tmTheme",
+    
+    //  Layout
+    "draw_centered": false, // Centres the column in the window
+    "word_wrap": true,
+    "wrap_width": 120,
+    "rulers": [80,120],
+
+    "draw_indent_guides": false,
+
+    // Line
+    "line_numbers": true,
+    "highlight_line": true,
+    "line_padding_top": 0,
+    "line_padding_bottom": 0,
+    "trim_trailing_white_space_on_save": false,
+    "trailing_spaces_trim_on_save": false,
+    
+    // Caret
+    "caret_style": "solid",
+    "caret_extra_width": 0,
+    "caret_extra_top": 0,
+    "caret_extra_bottom": 0,
+    
+    // Which file extensions go with this file type?
+    "extensions":
+    [
+        "md",
+        "mdown",
+        "mdwn",
+        "mmd",
+        "txt"
+    ]
+}
