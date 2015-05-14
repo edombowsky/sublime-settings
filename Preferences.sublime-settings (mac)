@@ -1,0 +1,90 @@
+{
+	"added_words":
+	[
+		"caeadom",
+		"xml",
+		"exe",
+		"mkdir",
+		"sqlplus"
+	],
+	"always_prompt_for_file_reload": true,
+	"aprosopo_dark_aqua": true,
+	"aprosopo_dark_dirty_red": true,
+	"aprosopo_show_tab_close_buttons": true,
+	"aprosopo_show_tab_close_on_hover": true,
+	"aprosopo_sidebar_font_medium": true,
+	"aprosopo_sidebar_tree_medium": true,
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Colorsublime - Themes/Dark-Dracula.tmTheme",
+	"default_encoding": "UTF-8",
+	"detect_slow_plugins": false,
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"drag_text": false,
+	"draw_white_space": "none",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".*"
+	],
+	"font_face": "Monaco",
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"http_proxy": "proxy.ca.abb.com:8080",
+	"ignored_packages":
+	[
+		"Makefile",
+		"Pascal",
+		"reStructuredText",
+		"Vintage",
+		"PHP",
+		"Objective-C",
+		"Textile",
+		"Matlab",
+		"Rails",
+		"ActionScript",
+		"C#",
+		"TCL",
+		"Graphviz",
+		"Lua",
+		"OCaml",
+		"Lisp",
+		"Racket",
+		"Erlang",
+		"SML",
+		"RestructuredText",
+		"ASP",
+		"Clojure",
+		"R",
+		"LaTeX",
+		"Markdown",
+		"Haskell",
+		"JavaScript",
+		"CSS",
+		"D",
+		"Go"
+	],
+	"indent_to_bracket": true,
+	"keys":
+	[
+		"command+shift+c"
+	],
+	"open_files_in_new_window": false,
+	"preview_on_click": false,
+	"proxy_password": "Solar-System",
+	"proxy_username": "americas\\caeadom",
+	"rulers":
+	[
+		80,
+		120
+	],
+	"scroll_past_end": false,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"spell_check": true,
+	"theme": "Aprosopo Dark@st3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false
+}
